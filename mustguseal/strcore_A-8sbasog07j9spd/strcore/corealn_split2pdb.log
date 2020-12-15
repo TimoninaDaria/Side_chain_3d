@@ -1,0 +1,50 @@
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND
+PLEASE CHECK MANUALLY THE CONSISTENCY OF THE GENERATED OUTPUT
+PLEASE REPORT ANY PROBLEMS TO D.A.SUPLATOV@BELOZERSKY.MSU.RU
+
+Starting the script ... 
+Input: parMATT's information file is  /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/core_alignment/3daln.txt
+Input: parMATT's 3D-alignment file is /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/core_alignment/3daln.pdb
+Input: separated PDBs will be printed to folder /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs
+Info: Reading the parMATT information file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/core_alignment/3daln.txt
+Info: Chain 1 -> 0_1j2e_A
+Info: Chain 2 -> 241_2aj8_B
+Info: Chain 3 -> 264_6l8q_G
+Info: Chain 4 -> 268_2gbf_A
+Info: Chain 5 -> 313_1z68_B
+Info: Chain 6 -> 315_1xfd_A
+Info: Chain 7 -> 319_4wjl_B
+Info: Chain 8 -> 321_5olj_A
+Info: Chain 9 -> 322_5yp1_C
+Info: Chain 10 -> 326_5yp4_B
+Info: Chain 11 -> 332_2ecf_A
+Info: Chain 12 -> 337_2d5l_A
+Info: Chain 13 -> 342_4q1v_B
+Info: Chain 14 -> 344_6eoq_D
+Info: Chain 15 -> 348_6eos_B
+Info: Chain 16 -> 349_6eoo_A
+Info: Chain 17 -> 351_6eor_B
+Info: Finished reading the parMATT information file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/core_alignment/3daln.txt
+Info: Reading the parMATT 3D-alignment file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/core_alignment/3daln.pdb
+Info: Chain 1 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/0_1j2e_A.pdb
+Info: Chain 2 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/241_2aj8_B.pdb
+Info: Chain 3 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/264_6l8q_G.pdb
+Info: Chain 4 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/268_2gbf_A.pdb
+Info: Chain 5 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/313_1z68_B.pdb
+Info: Chain 6 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/315_1xfd_A.pdb
+Info: Chain 7 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/319_4wjl_B.pdb
+Info: Chain 8 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/321_5olj_A.pdb
+Info: Chain 9 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/322_5yp1_C.pdb
+Info: Chain 10 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/326_5yp4_B.pdb
+Info: Chain 11 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/332_2ecf_A.pdb
+Info: Chain 12 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/337_2d5l_A.pdb
+Info: Chain 13 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/342_4q1v_B.pdb
+Info: Chain 14 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/344_6eoq_D.pdb
+Info: Chain 15 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/348_6eos_B.pdb
+Info: Chain 16 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/349_6eoo_A.pdb
+Info: Chain 17 printed to file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs/351_6eor_B.pdb
+Info: Finished reading the parMATT 3D-alignment file /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/core_alignment/3daln.pdb
+Info: The PDB files were printed to the folder /srv/www/htdocs/static/tasks/A-8sbasog07j9spd/strcore/aligned_pdbs
+Done!
+
